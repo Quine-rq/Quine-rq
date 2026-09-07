@@ -1,4 +1,4 @@
-# Renquan (Quine)
+# Quine
 
 Founder & Lead Engineer building [VERIO（星眸）](https://myverio.com) — an AI-powered social experience connecting mobile software, real-time systems, and smart hardware.
 
