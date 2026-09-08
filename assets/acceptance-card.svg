@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Functional Acceptance — a skill for coding agents</title>
+  <desc id="desc">The feature is built. Does it work for the user? Early development. Verdicts distinguish pass, fail, and unverified.</desc>
+  <rect x=".5" y=".5" width="999" height="199" rx="14" fill="#111C17" stroke="#30473A"/>
+  <path d="M1 35V165" stroke="#A6F4C5" stroke-width="3"/>
+  <text x="35" y="35" font-family="monospace" font-size="11" letter-spacing="2" fill="#A6F4C5">01 / FEATURED PROJECT</text>
+  <text x="34" y="84" font-family="Georgia,serif" font-size="37" fill="#F3F6EE">Functional Acceptance</text>
+  <text x="35" y="119" font-family="sans-serif" font-size="18" fill="#B5C5B9">The feature is built. Does it work for the user?</text>
+  <text x="35" y="168" font-family="monospace" font-size="12" fill="#9AAFA0">AGENT SKILL · REAL USER FLOWS · REPEATABLE CHECKS</text>
+  <rect x="732" y="31" width="231" height="29" rx="14" fill="#1C3024"/>
+  <text x="847" y="50" text-anchor="middle" font-family="monospace" font-size="11" fill="#B9D7C1">EARLY DEVELOPMENT</text>
+  <text x="734" y="100" font-family="monospace" font-size="12" fill="#92A899">MAKE THE RESULT EXPLICIT</text>
+  <rect x="733" y="119" width="58" height="29" rx="5" fill="#224833"/>
+  <text x="762" y="138" text-anchor="middle" font-family="monospace" font-size="11" fill="#B5F1C7">PASS</text>
+  <rect x="799" y="119" width="58" height="29" rx="5" fill="#472C2B"/>
+  <text x="828" y="138" text-anchor="middle" font-family="monospace" font-size="11" fill="#F3B8AA">FAIL</text>
+  <rect x="865" y="119" width="98" height="29" rx="5" fill="#3A3520"/>
+  <text x="914" y="138" text-anchor="middle" font-family="monospace" font-size="11" fill="#E8D49A">UNVERIFIED</text>
+</svg>

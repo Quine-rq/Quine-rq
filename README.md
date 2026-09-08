@@ -1,61 +1,92 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/agent-header.svg" width="100%" alt="Quine — Building agents that follow through. Agent engineering, reusable skills, and evidence-driven evaluation." />
+</p>
 
-# Hi, I'm Quine
+<p align="center">
+  <a href="https://github.com/Quine-rq/functional-acceptance"><b>Explore my work</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AQuine-rq">Contributions</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://myverio.com">VERIO ↗</a>
+</p>
 
-**Building agents that follow through.**
+<br />
 
-Agent engineering · Reusable skills · Evidence-driven evaluation
+### A little about me
 
-[Projects](https://github.com/Quine-rq?tab=repositories) · [Functional Acceptance](https://github.com/Quine-rq/functional-acceptance) · [Contributions](https://github.com/pulls?q=is%3Apr+author%3AQuine-rq) · [VERIO](https://myverio.com)
+I'm **Quine**, building tools and workflows that help coding agents turn a task into a verifiable user result. My focus: **agent skills, functional acceptance, and failure recovery**.
 
-</div>
+Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** — where I work across mobile apps, real-time services, AI, and connected hardware.
 
----
+> 让 Agent 把事情真正做完：理解目标、执行任务、验证结果，并在失败后恢复。
 
-I build tools and workflows that help coding agents carry a task through to a verifiable user result. My current work focuses on **agent skills, functional acceptance, and failure recovery**.
+<br />
 
-I'm also the Founder & Lead Engineer of **[VERIO（星眸）](https://myverio.com)**, building across mobile apps, real-time services, AI, and connected hardware.
+### What I'm building
 
-我关注 Agent 如何把事情真正做完：理解目标、执行任务、验证结果，并在失败后恢复。
+<a href="https://github.com/Quine-rq/functional-acceptance">
+  <img src="./assets/acceptance-card.svg" width="100%" alt="Functional Acceptance — a skill for coding agents to check real user outcomes. Early development." />
+</a>
 
-## Featured project
+**[Functional Acceptance](https://github.com/Quine-rq/functional-acceptance)** helps coding agents verify real user flows, collect evidence, and leave repeatable checks. Examples span CSV export, SQLite workflows, and a browser/server/database journey.
 
-### [Functional Acceptance](https://github.com/Quine-rq/functional-acceptance)
+**Explicit expectations. Observable results. Honest gaps.** Missing evidence stays **UNVERIFIED**; failed attempts and missed checks stay in the evaluation record.
 
-**The feature is built. Does it work for the user?**
+<sub>Early development. Broader agent compatibility and reliable full-flow coverage are still being evaluated.</sub>
 
-A skill for coding agents to verify features through real user flows, collect evidence, and leave repeatable checks.
+[Explore the project →](https://github.com/Quine-rq/functional-acceptance#readme) · [中文介绍 →](https://github.com/Quine-rq/functional-acceptance/blob/main/README.zh-CN.md)
 
-- **User outcomes:** check the promised result against explicit expectations.
-- **Visible evidence:** distinguish **PASS**, **FAIL**, and **UNVERIFIED**.
-- **Repeatable journeys:** examples cover CSV export, SQLite workflows, and a browser/server/database flow.
-- **Honest evaluation:** retain missed checks and failed attempts alongside successful runs.
+<br />
 
-*Early development. Broader agent compatibility and reliable full-flow coverage are still being evaluated.*
+### Tools I work with
 
-[Read the project →](https://github.com/Quine-rq/functional-acceptance#readme) · [中文介绍 →](https://github.com/Quine-rq/functional-acceptance/blob/main/README.zh-CN.md)
+**Agent tooling & engineering**
 
-## Agent ecosystem contributions
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,git,githubactions&amp;theme=dark" height="48" alt="Python, TypeScript, Node.js, Git, GitHub Actions" />
+  </a>
+</p>
 
-Recent pull requests to **[Hermes Desktop](https://github.com/fathah/hermes-desktop)**, a desktop companion for Hermes Agent:
+<sub>Python · TypeScript · Node.js · Git · GitHub Actions</sub>
 
-| Area | Proposed improvement |
+**Apps & services**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,sqlite&amp;theme=dark" height="48" alt="Flutter, Dart, Java, Spring, SQLite" />
+  </a>
+</p>
+
+<sub>Flutter · Dart · Java / Spring Boot · SQLite · WebSocket · BLE</sub>
+
+<br />
+
+### Around the agent ecosystem
+
+Contributing fixes to **[Hermes Desktop](https://github.com/fathah/hermes-desktop)**, a desktop companion for Hermes Agent.
+
+| Focus | Contribution |
 | :--- | :--- |
-| Model identity | [Preserve distinct endpoints when adding models over SSH](https://github.com/fathah/hermes-desktop/pull/945) |
-| Remote context | [Honor the active remote model's context length](https://github.com/fathah/hermes-desktop/pull/946) |
-| Session lifecycle | [Reflect native archive and restore state in local session lists](https://github.com/fathah/hermes-desktop/pull/947) |
-| Configuration | [Preserve Windows CRLF platform settings](https://github.com/fathah/hermes-desktop/pull/943) |
+| **Model identity** | [Distinct SSH endpoints stay distinct ↗](https://github.com/fathah/hermes-desktop/pull/945) |
+| **Remote context** | [Read the active remote model's context length ↗](https://github.com/fathah/hermes-desktop/pull/946) |
+| **Session lifecycle** | [Reflect local archive and restore state ↗](https://github.com/fathah/hermes-desktop/pull/947) |
+| **Configuration** | [Preserve Windows CRLF platform settings ↗](https://github.com/fathah/hermes-desktop/pull/943) |
 
-These are submitted contributions; each PR links to its current review and merge status.
+<sub>Submitted contributions. Each PR links to its current review and merge status.</sub>
 
-## How I build
+<br />
+
+### My engineering loop
 
 **Define the outcome → Trace the real flow → Exercise failure paths → Verify with evidence**
 
-I treat recovery, concurrency, weak networks, and state consistency as part of the feature. A successful command is one observation; the user's result is the acceptance criterion.
-
-**Working stack:** Python · TypeScript · Flutter / Dart · Java / Spring Boot · SQLite · WebSocket · BLE
+Recovery, concurrency, weak networks, and state consistency are part of the feature. A successful command is one observation; the user's result is the acceptance criterion.
 
 ---
 
-Interested in agent skills or reproducible acceptance cases? [Open a discussion through an issue](https://github.com/Quine-rq/functional-acceptance/issues).
+<p align="center">
+  <b>Building something with agents?</b><br />
+  <sub>I'm interested in reusable skills and reproducible acceptance cases.</sub><br /><br />
+  <a href="https://github.com/Quine-rq/functional-acceptance/issues">Share a case ↗</a>
+</p>
