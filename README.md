@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/agent-header.svg?v=2" width="100%" alt="Quine — Building agents that follow through. Agent engineering, reusable skills, and evidence-driven evaluation." />
+  <img src="./assets/quine-monochrome-header.svg" width="100%" alt="Quine — Building agents that follow through. Agent engineering, reusable skills, and evidence-driven evaluation." />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** —
 ### Selected work
 
 <a href="https://github.com/Quine-rq/functional-acceptance">
-  <img src="./assets/acceptance-card.svg?v=2" width="100%" alt="Functional Acceptance — a skill for coding agents to check real user outcomes. Early development." />
+  <img src="./assets/acceptance-monochrome-card.svg" width="100%" alt="Functional Acceptance — a skill for coding agents to check real user outcomes. Early development." />
 </a>
 
 **[Functional Acceptance](https://github.com/Quine-rq/functional-acceptance)** helps coding agents verify real user flows, collect evidence, and leave repeatable checks. Examples span CSV export, SQLite workflows, and a browser/server/database journey.

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Quine — Agent engineering</title>
+<desc id="desc">Building agents that follow through. A monochrome editorial identity with a silver geometric asterisk.</desc>
+<defs><linearGradient id="metal" x1="-90" y1="-90" x2="90" y2="90" gradientUnits="userSpaceOnUse"><stop stop-color="#F2F2F2"/><stop offset=".35" stop-color="#919191"/><stop offset=".58" stop-color="#E0E0E0"/><stop offset="1" stop-color="#535353"/></linearGradient></defs>
+<rect x=".5" y=".5" width="999" height="329" rx="16" fill="#F5F5F5" stroke="#D4D4D4"/>
+<text x="44" y="43" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#555555">INDEPENDENT ENGINEER / BUILDER</text>
+<text x="36" y="185" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="142" font-weight="700" letter-spacing="-10" fill="#151515">QUINE<tspan fill="#878787">.</tspan></text>
+<text x="44" y="234" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="26" fill="#303030">Building agents that follow through.</text>
+<path d="M44 269H956" stroke="#D3D3D3"/>
+<text x="44" y="304" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" letter-spacing="1.6" fill="#5F5F5F">AGENT SYSTEMS</text>
+<text x="297" y="304" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" letter-spacing="1.6" fill="#5F5F5F">REUSABLE SKILLS</text>
+<text x="554" y="304" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" letter-spacing="1.6" fill="#5F5F5F">EVALUATION</text>
+<text x="956" y="304" text-anchor="end" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" fill="#151515">@Quine-rq ↗</text>
+<g transform="translate(833 147)">
+<circle r="100" stroke="#DADADA"/>
+<circle r="117" stroke="#E7E7E7" stroke-dasharray="2 8"/>
+<path d="M-15-90H15V-37L52-74L74-52L37-15H90V15H37L74 52L52 74L15 37V90H-15V37L-52 74L-74 52L-37 15H-90V-15H-37L-74-52L-52-74L-15-37Z" fill="url(#metal)"/>
+<circle r="13" fill="#F5F5F5"/>
+</g>
+</svg>
