@@ -1,33 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Quine — Building agents that follow through.</title>
-  <desc id="desc">Agent engineering, reusable skills, and evidence-driven evaluation. A mint-colored execution loop connects goal, action, and evidence.</desc>
-  <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#273632"/></pattern>
-    <linearGradient id="fade" x1="610" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#14251F"/><stop offset="1" stop-color="#0C1311"/></linearGradient>
-  </defs>
-  <rect width="1000" height="340" rx="18" fill="#0C1311"/>
-  <rect x="600" width="400" height="340" rx="18" fill="url(#fade)"/>
-  <rect x="610" y="1" width="389" height="338" rx="18" fill="url(#grid)"/>
-  <rect x=".5" y=".5" width="999" height="339" rx="17.5" stroke="#2A3B33"/>
-  <path d="M44 42H69" stroke="#A6F4C5" stroke-width="3"/>
-  <text x="82" y="47" font-family="monospace" font-size="13" letter-spacing="2.4" fill="#A6F4C5">QUINE / AGENT ENGINEERING</text>
-  <text x="43" y="150" font-family="Georgia,serif" font-size="88" letter-spacing="-3" fill="#F3F6EE">Ideas into action.</text>
-  <text x="46" y="197" font-family="sans-serif" font-size="27" fill="#E2EADF">Building agents that follow through.</text>
-  <text x="47" y="239" font-family="monospace" font-size="14" fill="#9EAEA3">SKILLS / EVALUATION / RELIABLE SYSTEMS</text>
-  <path d="M46 278H570" stroke="#2A3B33"/>
-  <text x="47" y="307" font-family="monospace" font-size="12" fill="#8CA494">QUINE-RQ</text>
-  <text x="570" y="307" text-anchor="end" font-family="monospace" font-size="12" fill="#8CA494">BUILD · OBSERVE · IMPROVE</text>
-  <g stroke="#5A886D" stroke-width="1.5">
-    <path d="M765 91H903V241H732V163"/>
-    <path d="M732 148V91H745"/>
-    <path d="m899 235 4 6 4-6M738 171l-6-8-6 8"/>
-  </g>
-  <rect x="688" y="69" width="113" height="43" rx="8" fill="#14271D" stroke="#5A886D"/>
-  <circle cx="706" cy="90" r="4" fill="#A6F4C5"/>
-  <text x="721" y="95" font-family="monospace" font-size="13" fill="#DCF4E2">GOAL</text>
-  <rect x="843" y="134" width="114" height="44" rx="8" fill="#A6F4C5"/>
-  <text x="900" y="161" text-anchor="middle" font-family="monospace" font-size="13" fill="#102318">ACTION</text>
-  <rect x="670" y="219" width="137" height="44" rx="8" fill="#14271D" stroke="#5A886D"/>
-  <text x="738" y="246" text-anchor="middle" font-family="monospace" font-size="13" fill="#DCF4E2">EVIDENCE</text>
-  <text x="813" y="305" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8CA494">CLOSE THE LOOP</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Quine — Agent engineering</title>
+<desc id="desc">Building agents that follow through. A monochrome editorial identity with a silver geometric asterisk.</desc>
+<defs><linearGradient id="metal" x1="-90" y1="-90" x2="90" y2="90" gradientUnits="userSpaceOnUse"><stop stop-color="#F2F2F2"/><stop offset=".35" stop-color="#919191"/><stop offset=".58" stop-color="#E0E0E0"/><stop offset="1" stop-color="#535353"/></linearGradient></defs>
+<rect x=".5" y=".5" width="999" height="329" rx="16" fill="#F5F5F5" stroke="#D4D4D4"/>
+<text x="44" y="43" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#555555">INDEPENDENT ENGINEER / BUILDER</text>
+<text x="36" y="185" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="142" font-weight="700" letter-spacing="-10" fill="#151515">QUINE<tspan fill="#878787">.</tspan></text>
+<text x="44" y="234" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="26" fill="#303030">Building agents that follow through.</text>
+<path d="M44 269H956" stroke="#D3D3D3"/>
+<text x="44" y="304" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" letter-spacing="1.6" fill="#5F5F5F">AGENT SYSTEMS</text>
+<text x="297" y="304" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" letter-spacing="1.6" fill="#5F5F5F">REUSABLE SKILLS</text>
+<text x="554" y="304" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" letter-spacing="1.6" fill="#5F5F5F">EVALUATION</text>
+<text x="956" y="304" text-anchor="end" font-family="Helvetica Neue,Helvetica,sans-serif" font-size="12" fill="#151515">@Quine-rq ↗</text>
+<g transform="translate(833 147)">
+<circle r="100" stroke="#DADADA"/>
+<circle r="117" stroke="#E7E7E7" stroke-dasharray="2 8"/>
+<path d="M-15-90H15V-37L52-74L74-52L37-15H90V15H37L74 52L52 74L15 37V90H-15V37L-52 74L-74 52L-37 15H-90V-15H-37L-74-52L-52-74L-15-37Z" fill="url(#metal)"/>
+<circle r="13" fill="#F5F5F5"/>
+</g>
 </svg>

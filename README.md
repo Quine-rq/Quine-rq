@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/agent-header.svg" width="100%" alt="Quine — Building agents that follow through. Agent engineering, reusable skills, and evidence-driven evaluation." />
+  <img src="./assets/agent-header.svg?v=2" width="100%" alt="Quine — Building agents that follow through. Agent engineering, reusable skills, and evidence-driven evaluation." />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <br />
 
-### A little about me
+### About
 
 I'm **Quine**, building tools and workflows that help coding agents turn a task into a verifiable user result. My focus: **agent skills, functional acceptance, and failure recovery**.
 
@@ -22,10 +22,34 @@ Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** —
 
 <br />
 
-### What I'm building
+### Stack
+
+**Agent tooling & engineering**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,git,githubactions&amp;theme=dark" height="42" alt="Python, TypeScript, Node.js, Git, GitHub Actions" />
+  </a>
+</p>
+
+<sub>Python · TypeScript · Node.js · Git · GitHub Actions</sub>
+
+**Apps & services**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,sqlite&amp;theme=dark" height="42" alt="Flutter, Dart, Java, Spring, SQLite" />
+  </a>
+</p>
+
+<sub>Flutter · Dart · Java / Spring Boot · SQLite · WebSocket · BLE</sub>
+
+<br />
+
+### Selected work
 
 <a href="https://github.com/Quine-rq/functional-acceptance">
-  <img src="./assets/acceptance-card.svg" width="100%" alt="Functional Acceptance — a skill for coding agents to check real user outcomes. Early development." />
+  <img src="./assets/acceptance-card.svg?v=2" width="100%" alt="Functional Acceptance — a skill for coding agents to check real user outcomes. Early development." />
 </a>
 
 **[Functional Acceptance](https://github.com/Quine-rq/functional-acceptance)** helps coding agents verify real user flows, collect evidence, and leave repeatable checks. Examples span CSV export, SQLite workflows, and a browser/server/database journey.
@@ -38,31 +62,7 @@ Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** —
 
 <br />
 
-### Tools I work with
-
-**Agent tooling & engineering**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,git,githubactions&amp;theme=dark" height="48" alt="Python, TypeScript, Node.js, Git, GitHub Actions" />
-  </a>
-</p>
-
-<sub>Python · TypeScript · Node.js · Git · GitHub Actions</sub>
-
-**Apps & services**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,sqlite&amp;theme=dark" height="48" alt="Flutter, Dart, Java, Spring, SQLite" />
-  </a>
-</p>
-
-<sub>Flutter · Dart · Java / Spring Boot · SQLite · WebSocket · BLE</sub>
-
-<br />
-
-### Around the agent ecosystem
+### Contributions
 
 Contributing fixes to **[Hermes Desktop](https://github.com/fathah/hermes-desktop)**, a desktop companion for Hermes Agent.
 
