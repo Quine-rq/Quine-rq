@@ -14,7 +14,7 @@
 
 ### About
 
-I'm **Quine**, building tools and workflows that help coding agents turn a task into a verifiable user result. My focus: **agent skills, functional acceptance, and failure recovery**.
+I'm **Quine**, focused on **multimodal agents, reusable agent skills, and evidence-driven acceptance**. I'm interested in how agents connect perception and tools to a user result that can actually be checked.
 
 Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** — where I work across mobile apps, real-time services, AI, and connected hardware.
 
@@ -48,6 +48,8 @@ Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** —
 
 ### Selected work
 
+#### Functional Acceptance · Current focus
+
 <a href="https://github.com/Quine-rq/functional-acceptance">
   <img src="./assets/acceptance-monochrome-card.svg" width="100%" alt="Functional Acceptance — a skill for coding agents to check real user outcomes. Early development." />
 </a>
@@ -59,6 +61,27 @@ Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** —
 <sub>Early development. Broader agent compatibility and reliable full-flow coverage are still being evaluated.</sub>
 
 [Explore the project →](https://github.com/Quine-rq/functional-acceptance#readme) · [中文介绍 →](https://github.com/Quine-rq/functional-acceptance/blob/main/README.zh-CN.md)
+
+<br />
+
+#### Multimodal Agents · 2025 project history
+
+**[multi-modal-agent](https://github.com/Quine-rq/multi-modal-agent)** contains a video-focused agent system spanning ingestion, retrieval, tool use, conversation memory, and a chat interface.
+
+Based on the open-source **[Kubrick course](https://github.com/multi-modal-ai/multimodal-agents-course)** by **The Neural Maze and Neural Bits**, in collaboration with Pixeltable and Opik. The areas below describe the course-based repository and its 2025 history.
+
+| Area | Inside the project |
+| :--- | :--- |
+| **Multimodal retrieval** | Video frames, captions, and audio transcripts indexed with Pixeltable for video search. |
+| **Agent & MCP** | FastMCP tools, resources, and prompts connected to a Groq-powered agent through a custom MCP client. |
+| **Memory & observability** | Conversation history, Opik traces, and prompt versioning across the agent workflow. |
+| **Full-stack integration** | A FastAPI service, React / TypeScript chat UI, and Docker-based setup. |
+
+The later 2025 commits cover practical integration fixes: [frame-sampling error handling](https://github.com/Quine-rq/multi-modal-agent/commit/e62c23e655e445dd9378761760633cecaa3b9d01), [FFmpeg / libGL container dependencies](https://github.com/Quine-rq/multi-modal-agent/commit/92e2baee9b7fdbc16e8f8f7a249494ab4d711301), and [the missing UI utility module](https://github.com/Quine-rq/multi-modal-agent/commit/8a8bca8eaa9da68dc3a9118ba095a8d2e8d883c7).
+
+<sub>Python · FastAPI · FastMCP · Pixeltable · Groq · Opik · React · TypeScript · Docker · FFmpeg</sub>
+
+[Explore the repository →](https://github.com/Quine-rq/multi-modal-agent#readme) · [Browse 2025 commits →](https://github.com/Quine-rq/multi-modal-agent/commits/main/?since=2025-01-01&until=2025-12-31T23%3A59%3A59Z)
 
 <br />
 
