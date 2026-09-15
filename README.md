@@ -68,8 +68,6 @@ Also Founder & Lead Engineer at **[VERIO（星眸）](https://myverio.com)** —
 
 **[multi-modal-agent](https://github.com/Quine-rq/multi-modal-agent)** contains a video-focused agent system spanning ingestion, retrieval, tool use, conversation memory, and a chat interface.
 
-Based on the open-source **[Kubrick course](https://github.com/multi-modal-ai/multimodal-agents-course)** by **The Neural Maze and Neural Bits**, in collaboration with Pixeltable and Opik. The areas below describe the course-based repository and its 2025 history.
-
 | Area | Inside the project |
 | :--- | :--- |
 | **Multimodal retrieval** | Video frames, captions, and audio transcripts indexed with Pixeltable for video search. |
